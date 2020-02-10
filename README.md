@@ -1,0 +1,2 @@
+# lj-chatscrumapp
+chatscrum
